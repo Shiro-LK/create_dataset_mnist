@@ -1,4 +1,4 @@
-#create mnist dataset 
+## create mnist dataset 
 
 Script using Keras in order to save mnist dataset in .jpg format.
 
